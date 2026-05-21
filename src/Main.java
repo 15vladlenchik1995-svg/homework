@@ -142,11 +142,11 @@ public class Main {
         double odds1 = manyYear1-(masha1*12);
         double odds2 = manyYear2-(denis2*12);
         double odds3 = manyYear3-(kris3*12);
-        System.out.printf("Маша теперь получает %.0f рублей.Годовой доход вырос на " +
+        System.out.printf("Маша теперь получает : %.0f рублей.Годовой доход вырос на " +
                 "%.0f рублей \n",manyYear1,odds1);
-        System.out.printf("Денис теперь получает %.0f рублей.Годовой доход вырос на " +
+        System.out.printf("Денис теперь получает : %.0f рублей.Годовой доход вырос на " +
                 "%.0f рублей \n",manyYear2,odds2);
-        System.out.printf("Кристина теперь получает %.0f рублей.Годовой доход вырос на " +
+        System.out.printf("Кристина теперь получает : %.0f рублей.Годовой доход вырос на " +
                 "%.0f рублей \n",manyYear3,odds3);
 
 
